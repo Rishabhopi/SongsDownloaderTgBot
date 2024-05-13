@@ -16,7 +16,7 @@ Demo : [𝗔𝗻𝗻𝗶𝗲 - 𝗘𝗹𝗶𝘇𝗮 𝗦𝗼𝗻𝗴 𝗗𝗼�
 
 # Deploy Heroku ✅
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/SongsDownloaderTgBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rishabhopi/SongsDownloaderTgBot)
 
 
 
